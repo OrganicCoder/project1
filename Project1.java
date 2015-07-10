@@ -10,14 +10,13 @@ package intro;
 public class Project1 {
 	public static void main(String[] args)
 	{
-	    //Program starts here!
 	    // Added greeting message 
 	    System.out.println("Hello World!");
 	    // Added name
 	    System.out.println("My name is Rawya Husain.");
 	    
-	    //...
-	
+	    // Added second name
+	    System.out.println("My name is Alex Chambers.");
 		
 	}
 }
