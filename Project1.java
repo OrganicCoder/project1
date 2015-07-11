@@ -10,13 +10,17 @@ package intro;
 public class Project1 {
 	public static void main(String[] args)
 	{
-	    // Added greeting message 
-	    System.out.println("Hello World!");
-	    // Added name
+	    // Print greeting message 
+	    System.out.println("Hello World!\n");
+        
+	    // Print first name
 	    System.out.println("My name is Rawya Husain.");
 	    
-	    // Added second name
+	    // Print second name
 	    System.out.println("My name is Alex Chambers.");
+        
+        // Print completion message
+        System.out.println("\nProject 1 has been completed! ");
 		
 	}
 }
