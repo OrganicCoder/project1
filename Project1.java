@@ -18,9 +18,9 @@ public class Project1 {
 	    
 	    // Print second name
 	    System.out.println("My name is Alex Chambers.");
-        
-        // Print completion message
-        System.out.println("\nProject 1 has been completed! ");
-		
+	    
+	    // Print completion message
+	    System.out.println("\nProject 1 has been completed! ");
+	    
 	}
 }
