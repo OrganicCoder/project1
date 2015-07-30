@@ -7,10 +7,12 @@ int main()
 
   // Print first name
   printf("My name is Rawya Husain.\n");
-  
+
   // Print second name
+  printf("My name is Alex Chambers.\n");
 
   // Print completion message
+
 
   return 0;
 }
