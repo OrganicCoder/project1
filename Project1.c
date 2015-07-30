@@ -12,7 +12,7 @@ int main()
   printf("My name is Alex Chambers.\n");
 
   // Print completion message
-
+  printf("Project 1 has been completed!\n");
 
   return 0;
 }
