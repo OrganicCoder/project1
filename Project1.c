@@ -6,7 +6,7 @@ int main()
   printf("Hello World!\n");
 
   // Print first name
-  printf("My name is Rawya Husain.");
+  printf("My name is Rawya Husain.\n");
   
   // Print second name
 
